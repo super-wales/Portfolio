@@ -9,5 +9,3 @@
 AND
 
 :heart: :coffee: :headphones:
-
-Made in :nigeria:
